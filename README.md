@@ -1,16 +1,91 @@
-# React + Vite
+# 🌟 Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the source code for my **Developer Portfolio Website** — a modern, responsive, and visually appealing web portfolio built to showcase my skills, projects, and contact information.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+👉 *(Add your live deployed link here)*  
+Example: `https://yourusername.github.io/Portfolio-Website`
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 💡 About This Project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This portfolio website serves as an online presence to highlight my technical expertise, academic background, skills, projects, and contact details. It provides a clean and professional layout that is fully responsive on mobile, tablet, and desktop screens.
+
+The site is designed using modern tools to deliver excellent user experience and performance.
+
+---
+
+## 🔧 Built With
+
+Here are the main technologies used in this project:
+
+- **React.js**
+- **Vite** – Fast development build tool
+- **Tailwind CSS** – Utility-first styling
+- **Responsive Design**
+- **JavaScript & CSS**
+
+---
+
+## 🗂️ Features
+
+- 🚀 Professional portfolio layout  
+- 🧑‍💻 About, Skills, Projects, Education, Contact sections  
+- 📱 Fully responsive design  
+- ✨ Clean animated UI using Tailwind CSS  
+- 📍 Easy navigation and smooth section scroll  
+
+---
+
+## 🛠️ Installation & Setup
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Sahil-Shrivas/Portfolio-Website.git
+   
+2. **Navigate to the project folder**
+3. **Install dependencies**
+4. **Start the development server**
+5. **View in browser**
+
+
+---
+
+## 📂 Project Structure
+
+    Portfolio-Website/
+    ├── myportfolio/          # Source code
+    │   ├── src/
+    │   ├── public/  
+    │   ├── index.html
+    │   └── package.json
+    ├── .gitignore
+    ├── postcss.config.js
+    └── README.md
+
+---
+
+## 🤝 Connect With Me
+
+Feel free to get in touch or follow me on:
+
+GitHub: https://github.com/Sahil-Shrivas
+
+LinkedIn: (https://www.linkedin.com/in/sahil-shrivas-ba582b2a3/)
+
+Email: (ftsahilpratap1034@gmail.com)
+
+---
+
+## ⭐ Support
+
+If you like this project, please ⭐ star this repository.
+Thank you for visiting! 🚀
+
+---
