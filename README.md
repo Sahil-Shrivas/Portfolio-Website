@@ -49,11 +49,21 @@ To run this project locally, follow these steps:
    git clone https://github.com/Sahil-Shrivas/Portfolio-Website.git
    
 2. **Navigate to the project folder**
+   ```bash
+       cd Portfolio-Website/myportfolio
+   
 3. **Install dependencies**
+    ```bash
+       npm install
+ 
 4. **Start the development server**
+   ```bash
+      npm run dev
+ 
 5. **View in browser**
-
-
+   ```bash
+      Open http://localhost:5173 (or as displayed in terminal)
+   
 ---
 
 ## 📂 Project Structure
